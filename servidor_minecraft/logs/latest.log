@@ -1,0 +1,242 @@
+[15:34:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:34:35] [ServerMain/INFO]: Loaded 1470 recipes
+[15:34:35] [ServerMain/INFO]: Loaded 1584 advancements
+[15:34:36] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[15:34:36] [Server thread/INFO]: Loading properties
+[15:34:36] [Server thread/INFO]: Default game type: SURVIVAL
+[15:34:36] [Server thread/INFO]: Generating keypair
+[15:34:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:34:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:34:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:34:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:34:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:34:36] [Server thread/INFO]: Preparing level "world"
+[15:34:36] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:34:36] [Server thread/INFO]: Preparing spawn area: 100%
+[15:34:36] [Server thread/INFO]: Time elapsed: 14 ms
+[15:34:36] [Server thread/INFO]: Done (0.407s)! For help, type "help"
+[15:35:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:35:41] [Server thread/INFO]: chino555[/10.242.90.119:63242] logged in with entity id 60 at (4712.476603692944, 93.0, 3661.618609632384)
+[15:35:41] [Server thread/INFO]: chino555 joined the game
+[15:36:06] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:56941] logged in with entity id 1022 at (2323.547093781174, 62.0, -208.12807807470304)
+[15:36:06] [Server thread/INFO]: UPFUTX_300 joined the game
+[15:38:16] [Server thread/INFO]: Villager dcx['Butcher'/17, l='ServerLevel[world]', x=4723.70, y=93.00, z=3660.70] died, message: 'Butcher was slain by chino555'
+[15:39:15] [Server thread/INFO]: [Not Secure] <chino555> ju
+[15:39:16] [Server thread/INFO]: [Not Secure] <chino555> an
+[15:39:17] [Server thread/INFO]: [Not Secure] <chino555> in
+[15:39:18] [Server thread/INFO]: [Not Secure] <chino555> the
+[15:39:18] [Server thread/INFO]: [Not Secure] <chino555> van
+[15:39:18] [Server thread/INFO]: [Not Secure] <UPFUTX_300> zzz
+[15:40:31] [Server thread/INFO]: chino555 lost connection: Disconnected
+[15:40:31] [Server thread/INFO]: chino555 left the game
+[15:41:19] [Server thread/INFO]: chino555[/10.242.90.119:64766] logged in with entity id 4077 at (4732.553319705822, 100.41999998688698, 3650.699999988079)
+[15:41:19] [Server thread/INFO]: chino555 joined the game
+[15:42:04] [Server thread/INFO]: chino555 lost connection: Timed out
+[15:42:04] [Server thread/INFO]: chino555 left the game
+[15:42:04] [Server thread/WARN]: handleDisconnection() called twice
+[15:44:23] [Server thread/INFO]: chino555[/10.242.90.119:55743] logged in with entity id 5727 at (4732.300000011921, 105.16610926093821, 3650.7224541674173)
+[15:44:23] [Server thread/INFO]: chino555 joined the game
+[15:47:41] [Server thread/INFO]: hoa_xd[/10.242.148.126:63546] logged in with entity id 8428 at (-7013.083407611508, 74.0, -1604.2971862736695)
+[15:47:41] [Server thread/INFO]: hoa_xd joined the game
+[15:47:45] [Server thread/INFO]: [Not Secure] <chino555> HOA
+[15:47:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oa
+[15:49:28] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[15:49:28] [Server thread/INFO]: UPFUTX_300 left the game
+[15:49:32] [Server thread/INFO]: [Not Secure] [Server] asd
+[15:50:18] [Server thread/INFO]: [Not Secure] <chino555> dormir es labureishion
+[16:03:50] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:04:00] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:49209] logged in with entity id 19314 at (2299.9115096052656, 83.17675927506424, -216.4855128551681)
+[16:04:00] [Server thread/INFO]: UPFUTX_300 joined the game
+[16:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:09:28] [Server thread/INFO]: Villager dcx['Villager'/19245, l='ServerLevel[world]', x=2300.41, y=71.00, z=-213.45] died, message: 'Villager burned to death'
+[16:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[16:11:45] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:11:45] [Server thread/INFO]: hoa_xd left the game
+[16:11:50] [Server thread/INFO]: hoa_xd[/10.242.148.126:63869] logged in with entity id 27107 at (-7287.354594210273, 63.0, -2126.067733047395)
+[16:11:50] [Server thread/INFO]: hoa_xd joined the game
+[16:14:40] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:16:52] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:16:52] [Server thread/INFO]: hoa_xd left the game
+[16:17:00] [Server thread/INFO]: hoa_xd[/10.242.148.126:63980] logged in with entity id 33352 at (-7101.561345835979, 72.0, -1438.588197926711)
+[16:17:00] [Server thread/INFO]: hoa_xd joined the game
+[16:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[16:21:56] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-6356, y=64, z=-1748} is{x=-6358, y=61, z=-1747}
+[16:26:23] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[16:26:23] [Server thread/INFO]:  	say asd<--[HERE]
+[16:30:47] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:30:47] [Server thread/INFO]: hoa_xd left the game
+[16:40:31] [Server thread/INFO]: chino555 lost connection: Disconnected
+[16:40:31] [Server thread/INFO]: chino555 left the game
+[16:40:38] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:41:19] [Server thread/INFO]: hoa_xd[/10.242.148.126:64307] logged in with entity id 51259 at (-6653.730104455099, 88.0, -954.1649800713429)
+[16:41:19] [Server thread/INFO]: hoa_xd joined the game
+[16:41:21] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oa
+[16:41:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-6558, y=82, z=-873} is{x=-6558, y=82, z=-872}
+[16:46:10] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:46:10] [Server thread/INFO]: hoa_xd left the game
+[16:46:14] [Server thread/INFO]: hoa_xd[/10.242.148.126:64408] logged in with entity id 54239 at (-6585.741754883507, 84.0, -881.8958664247424)
+[16:46:14] [Server thread/INFO]: hoa_xd joined the game
+[16:46:50] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:46:50] [Server thread/INFO]: hoa_xd left the game
+[16:50:40] [Server thread/INFO]: hoa_xd[/10.242.148.126:64596] logged in with entity id 56231 at (-6572.248346009319, 83.0, -880.5007743478596)
+[16:50:40] [Server thread/INFO]: hoa_xd joined the game
+[16:51:23] [Server thread/INFO]: chino555[/10.242.90.119:57546] logged in with entity id 57133 at (4723.758459149058, 92.0, 3667.425823393149)
+[16:51:23] [Server thread/INFO]: chino555 joined the game
+[16:52:32] [Server thread/INFO]: chino555 lost connection: Disconnected
+[16:52:32] [Server thread/INFO]: chino555 left the game
+[16:54:06] [Server thread/INFO]: chino555[/10.242.90.119:57686] logged in with entity id 59568 at (4719.393602797212, 95.0, 3658.6740328516503)
+[16:54:06] [Server thread/INFO]: chino555 joined the game
+[16:54:36] [Server thread/INFO]: chino555 lost connection: Disconnected
+[16:54:36] [Server thread/INFO]: chino555 left the game
+[16:57:24] [Server thread/INFO]: [Not Secure] [Server] asd
+[16:58:05] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:58:05] [Server thread/INFO]: hoa_xd left the game
+[16:58:09] [Server thread/INFO]: hoa_xd[/10.242.148.126:64776] logged in with entity id 62379 at (-6832.767988147782, 69.0, -1221.4028604405528)
+[16:58:09] [Server thread/INFO]: hoa_xd joined the game
+[17:04:39] [Server thread/INFO]: [Not Secure] <UPFUTX_300> voy a colgar vro
+[17:07:34] [Server thread/INFO]: [Not Secure] <hoa_xd> weno
+[17:16:17] [Server thread/INFO]: [Not Secure] <UPFUTX_300> sadasdasdasdasdasdasdas
+[17:16:26] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:16:32] [Server thread/INFO]: [Not Secure] <hoa_xd> asd
+[17:20:11] [Server thread/INFO]: hoa_xd lost connection: Timed out
+[17:20:11] [Server thread/INFO]: hoa_xd left the game
+[17:20:17] [Server thread/INFO]: hoa_xd[/10.242.148.126:65063] logged in with entity id 72540 at (-7015.953006392479, 74.0, -1604.6929937790876)
+[17:20:17] [Server thread/INFO]: hoa_xd joined the game
+[17:21:50] [Server thread/INFO]: Villager dcx['Nitwit'/72546, l='ServerLevel[world]', x=-7029.30, y=61.00, z=-1545.50] died, message: 'Nitwit was slain by Zombie'
+[17:22:47] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asdasd
+[17:22:49] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:22:53] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:22:53] [Server thread/INFO]: hoa_xd left the game
+[17:22:58] [Server thread/INFO]: hoa_xd[/10.242.148.126:65099] logged in with entity id 74470 at (-7066.675654475284, 65.0, -1609.8346224878892)
+[17:22:58] [Server thread/INFO]: hoa_xd joined the game
+[17:23:17] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:23:17] [Server thread/INFO]: hoa_xd left the game
+[17:23:21] [Server thread/INFO]: hoa_xd[/10.242.148.126:65110] logged in with entity id 75305 at (-7065.177885814836, 65.0, -1604.2426138764165)
+[17:23:21] [Server thread/INFO]: hoa_xd joined the game
+[17:24:21] [Server thread/INFO]: hoa_xd lost connection: Timed out
+[17:24:21] [Server thread/INFO]: hoa_xd left the game
+[17:24:24] [Server thread/INFO]: hoa_xd[/10.242.148.126:65142] logged in with entity id 76482 at (-7001.109526031593, 68.93883597911214, -1597.658370570919)
+[17:24:24] [Server thread/INFO]: hoa_xd joined the game
+[17:25:08] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:25:08] [Server thread/INFO]: hoa_xd left the game
+[17:25:32] [Server thread/INFO]: hoa_xd[/10.242.148.126:65167] logged in with entity id 77590 at (-7024.910683399596, 71.0, -1608.7861707331797)
+[17:25:32] [Server thread/INFO]: hoa_xd joined the game
+[17:26:03] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:26:03] [Server thread/INFO]: hoa_xd left the game
+[17:26:24] [Server thread/INFO]: hoa_xd[/10.242.148.126:65191] logged in with entity id 78536 at (-6999.237113017846, 71.0, -1568.7373181754076)
+[17:26:24] [Server thread/INFO]: hoa_xd joined the game
+[17:33:34] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:33:34] [Server thread/INFO]: hoa_xd left the game
+[17:33:38] [Server thread/INFO]: hoa_xd[/10.242.148.126:65372] logged in with entity id 83190 at (-7015.300000011921, 82.0, -1426.1279229267498)
+[17:33:38] [Server thread/INFO]: hoa_xd joined the game
+[17:44:08] [Server thread/INFO]: [Not Secure] <hoa_xd> voi
+[17:44:17] [Server thread/INFO]: [Not Secure] <UPFUTX_300> pepe
+[17:44:21] [Server thread/INFO]: [Not Secure] [Server] pepe
+[17:44:28] [Server thread/INFO]: [Not Secure] <hoa_xd> pepe
+[17:44:30] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:44:30] [Server thread/INFO]: hoa_xd left the game
+[17:44:34] [Server thread/INFO]: hoa_xd[/10.242.148.126:49247] logged in with entity id 91132 at (-7023.606835924676, 70.0, -1607.070734303757)
+[17:44:34] [Server thread/INFO]: hoa_xd joined the game
+[17:45:38] [Server thread/INFO]: Villager dcx['Villager'/81314, l='ServerLevel[world]', x=2313.46, y=72.00, z=-209.44] died, message: 'Villager burned to death'
+[17:46:27] [Server thread/INFO]: Villager dcx['Villager'/19264, l='ServerLevel[world]', x=2298.50, y=71.06, z=-215.51] died, message: 'Villager suffocated in a wall'
+[17:48:54] [Server thread/INFO]: chino555[/10.242.90.119:65040] logged in with entity id 94350 at (4712.43786560099, 78.0, 3670.1632291016394)
+[17:48:54] [Server thread/INFO]: chino555 joined the game
+[17:49:04] [Server thread/INFO]: [Not Secure] <hoa_xd> ke mal ejemplo
+[17:50:22] [Server thread/INFO]: [Not Secure] <hoa_xd> y ese interned de la era nazi tai
+[17:50:48] [Server thread/INFO]: [Not Secure] [Server] asd
+[17:50:52] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:50:52] [Server thread/INFO]: hoa_xd left the game
+[17:50:57] [Server thread/INFO]: hoa_xd[/10.242.148.126:49370] logged in with entity id 96678 at (-6967.774321408876, 68.0, -1545.584729252609)
+[17:50:57] [Server thread/INFO]: hoa_xd joined the game
+[17:51:34] [Server thread/INFO]: [Not Secure] <chino555> ZEUS
+[17:51:42] [Server thread/INFO]: [Not Secure] <chino555> TE VENGO A CAGAR A TROMPADAS
+[17:51:49] [Server thread/INFO]: [Not Secure] <chino555> EUUU
+[17:52:04] [Server thread/INFO]: [Not Secure] <chino555> Duerman mrd
+[17:52:10] [Server thread/INFO]: [Not Secure] <hoa_xd> noomicasatio
+[17:52:13] [Server thread/INFO]: [Not Secure] <chino555> el que no duerme es puto
+[17:52:14] [Server thread/INFO]: [Not Secure] <hoa_xd> espera
+[17:52:19] [Server thread/INFO]: [Not Secure] <chino555> 10
+[17:52:20] [Server thread/INFO]: [Not Secure] <chino555> 9
+[17:52:21] [Server thread/INFO]: [Not Secure] <chino555> 8
+[17:52:22] [Server thread/INFO]: [Not Secure] <chino555> 7
+[17:52:23] [Server thread/INFO]: [Not Secure] <chino555> 6
+[17:52:24] [Server thread/INFO]: [Not Secure] <chino555> 5
+[17:52:25] [Server thread/INFO]: [Not Secure] <chino555> 4
+[17:52:26] [Server thread/INFO]: [Not Secure] <chino555> 3
+[17:52:27] [Server thread/INFO]: [Not Secure] <chino555> 2
+[17:52:27] [Server thread/INFO]: [Not Secure] <chino555> 1
+[17:52:30] [Server thread/INFO]: [Not Secure] <chino555> bueee
+[17:52:34] [Server thread/INFO]: [Not Secure] <hoa_xd> ggez
+[17:52:42] [Server thread/INFO]: chino555 lost connection: Disconnected
+[17:52:42] [Server thread/INFO]: chino555 left the game
+[17:56:32] [Server thread/INFO]: chino555[/10.242.90.119:52919] logged in with entity id 100736 at (4721.991863475381, 94.0, 3659.0549036286457)
+[17:56:32] [Server thread/INFO]: chino555 joined the game
+[17:57:51] [Server thread/INFO]: [Not Secure] <chino555> HITLER!
+[17:58:03] [Server thread/INFO]: chino555 lost connection: Timed out
+[17:58:03] [Server thread/INFO]: chino555 left the game
+[17:58:43] [Server thread/INFO]: chino555[/10.242.90.119:62437] logged in with entity id 103161 at (4711.9761904285215, 93.0, 3661.4435914188325)
+[17:58:43] [Server thread/INFO]: chino555 joined the game
+[17:59:32] [Server thread/WARN]: chino555 was kicked for floating too long!
+[17:59:32] [Server thread/INFO]: chino555 lost connection: Flying is not enabled on this server
+[17:59:32] [Server thread/INFO]: chino555 left the game
+[18:01:12] [Server thread/INFO]: chino555[/10.242.90.119:59616] logged in with entity id 105036 at (4727.731723067567, 93.7531999805212, 3652.0541323131965)
+[18:01:12] [Server thread/INFO]: chino555 joined the game
+[18:01:18] [Server thread/INFO]: [Not Secure] <chino555> hitler
+[18:01:25] [Server thread/INFO]: [Not Secure] <chino555> ya anda tu internet
+[18:01:26] [Server thread/INFO]: [Not Secure] <hoa_xd> tai core: unirse y salirse
+[18:01:31] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:01:31] [Server thread/INFO]: [Not Secure] <chino555> bo
+[18:01:35] [Server thread/INFO]: [Not Secure] <chino555> ya le entiendo a hoa
+[18:01:44] [Server thread/INFO]: [Not Secure] <hoa_xd> no kp a mi no me pasa
+[18:01:49] [Server thread/INFO]: [Not Secure] <hoa_xd> yosi tengo interned
+[18:01:54] [Server thread/INFO]: [Not Secure] <hoa_xd> hay niveles
+[18:01:57] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XDd
+[18:02:01] [Server thread/INFO]: [Not Secure] <chino555> y yo estoy 1 por encima de hoa
+[18:02:03] [Server thread/INFO]: [Not Secure] <chino555> B)
+[18:02:12] [Server thread/INFO]: [Not Secure] <hoa_xd> eso porque no te cargo ni un chunk todavia
+[18:02:16] [Server thread/INFO]: [Not Secure] <hoa_xd> XD
+[18:02:19] [Server thread/INFO]: [Not Secure] <chino555> Bo
+[18:02:21] [Server thread/INFO]: [Not Secure] <chino555> y va god
+[18:02:28] [Server thread/INFO]: [Not Secure] <hoa_xd> bo
+[18:02:45] [Server thread/INFO]: [Not Secure] <hoa_xd> y ese interned de la era nazi tai
+[18:03:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> duerman
+[18:03:07] [Server thread/INFO]: [Not Secure] <chino555> Headlights
+[18:03:24] [Server thread/INFO]: [Not Secure] <hoa_xd> a axel le robaron su celular en el mercado
+[18:03:29] [Server thread/INFO]: [Not Secure] <hoa_xd> seguramente
+[18:03:30] [Server thread/INFO]: [Not Secure] <UPFUTX_300> lol
+[18:03:33] [Server thread/INFO]: [Not Secure] <chino555> lol
+[18:03:38] [Server thread/INFO]: [Not Secure] <hoa_xd> lol q mal
+[18:03:41] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[18:03:41] [Server thread/INFO]: hoa_xd left the game
+[18:03:46] [Server thread/INFO]: [Not Secure] <chino555> Bo
+[18:03:52] [Server thread/INFO]: [Not Secure] <chino555> ese internet de la era nazi hoa?
+[18:03:57] [Server thread/INFO]: [Not Secure] <chino555> B)
+[18:04:05] [Server thread/INFO]: chino555 lost connection: Disconnected
+[18:04:05] [Server thread/INFO]: chino555 left the game
+[18:04:17] [Server thread/INFO]: chino555[/10.242.90.119:59787] logged in with entity id 107785 at (4713.780003961181, 72.0, 3683.328603065978)
+[18:04:17] [Server thread/INFO]: chino555 joined the game
+[18:04:19] [Server thread/INFO]: [Not Secure] <chino555> LA PUTA
+[18:04:40] [Server thread/INFO]: hoa_xd[/10.242.148.126:49575] logged in with entity id 108755 at (-6990.688925366052, 68.0, -1600.9937115221924)
+[18:04:40] [Server thread/INFO]: hoa_xd joined the game
+[18:07:52] [Server thread/INFO]: Villager dcx['Farmer'/108721, l='ServerLevel[world]', x=-7006.30, y=72.00, z=-1612.70] died, message: 'Farmer was slain by hoa_xd'
+[18:10:35] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:16:17] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[18:16:17] [Server thread/INFO]: hoa_xd left the game
+[18:16:35] [Server thread/INFO]: hoa_xd[/10.242.148.126:49762] logged in with entity id 118007 at (-7000.4684497105, 67.0, -1590.0620215766692)
+[18:16:35] [Server thread/INFO]: hoa_xd joined the game
+[18:21:43] [Server thread/INFO]: hoa_xd has made the advancement [Stay Hydrated!]
+[18:23:57] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:24:48] [Server thread/INFO]: [Not Secure] <chino555> JUAN
+[18:24:51] [Server thread/INFO]: [Not Secure] <chino555> ANDA DORMI PUTAZO
+[18:25:14] [Server thread/INFO]: [Not Secure] <chino555> El que no duerme le gustan los femboys juan
+[18:25:36] [Server thread/INFO]: [Not Secure] <chino555> god
+[18:27:50] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:29:42] [Server thread/INFO]: hoa_xd has made the advancement [Hidden in the Depths]
+[18:33:15] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:33:19] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[18:36:01] [Server thread/INFO]: [Not Secure] <UPFUTX_300> zzz
+[18:36:06] [Server thread/INFO]: chino555 lost connection: Disconnected
+[18:36:06] [Server thread/INFO]: chino555 left the game
+[18:36:18] [Server thread/INFO]: chino555[/10.242.90.119:64109] logged in with entity id 128293 at (4713.3955940438855, 81.0, 3666.972638361648)
+[18:36:18] [Server thread/INFO]: chino555 joined the game
